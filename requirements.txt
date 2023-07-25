@@ -1,1 +1,1 @@
-trubricks
+trubricks==1.4.3
