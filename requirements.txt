@@ -1,1 +1,1 @@
-trubricks[streamlit]
+trubricks
