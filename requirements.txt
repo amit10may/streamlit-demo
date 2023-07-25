@@ -1,2 +1,3 @@
 streamlit==1.25.0
+streamlit-chat==0.1.1
 trubrics==1.4.3
